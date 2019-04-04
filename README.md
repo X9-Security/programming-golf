@@ -1,4 +1,4 @@
-#Programming Golf!
+**Programming Golf!**
 
 This Programming Golf event is an application login that is focusing on length and security.
 You will be judged by the length of the code in byte size, and may get extra points with the overall security of the code such as implementing features like brute-force detection
